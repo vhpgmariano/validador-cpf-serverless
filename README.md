@@ -2,13 +2,13 @@
 
 ---
 
-# 📄 README.md: Microsserviço Serverless de Validação de CPF (Azure Functions)
+# README.md: Microsserviço Serverless de Validação de CPF (Azure Functions)
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Desenvolver um microsserviço eficiente, escalável e econômico para a validação de CPFs (Cadastro de Pessoa Física). A solução será construída com base em uma arquitetura **Serverless** no Azure, garantindo **alta disponibilidade**, **baixo custo operacional** (pagamento por execução) e **facilidade de manutenção**.
 
-## 🚀 Arquitetura Serverless Recomendada (Azure)
+## Arquitetura Serverless Recomendada (Azure)
 
 Esta arquitetura utiliza os serviços Serverless do Azure para lidar com picos de demanda e manter os custos baixos.
 
@@ -19,7 +19,7 @@ Esta arquitetura utiliza os serviços Serverless do Azure para lidar com picos d
 | **Lógica de Negócios** | **Azure Functions** (Código) | Implementa a regra de validação do CPF (cálculo e verificação dos dígitos). |
 | **Gerenciamento de Segredos** | **Azure Key Vault** | Armazena chaves de API ou segredos de forma segura, acessível via **Identidades Gerenciadas**. |
 
-## ✨ Princípios-Chave (Eficiência e Economia)
+## Princípios-Chave (Eficiência e Economia)
 
 O pilar deste projeto é o uso do **Azure Functions no Plano de Consumo**:
 
@@ -29,7 +29,7 @@ O pilar deste projeto é o uso do **Azure Functions no Plano de Consumo**:
 
 ---
 
-## 🛠️ Roteiro de Implementação
+## Roteiro de Implementação
 
 ### Passo 1: Configuração do Azure Function
 
@@ -60,7 +60,7 @@ O pilar deste projeto é o uso do **Azure Functions no Plano de Consumo**:
 
 ---
 
-## 📝 Como Executar Localmente
+## Como Executar Localmente
 
 *(Esta seção deve ser preenchida com as instruções específicas da linguagem escolhida, por exemplo:)*
 
