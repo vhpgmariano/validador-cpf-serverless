@@ -62,8 +62,6 @@ O pilar deste projeto é o uso do **Azure Functions no Plano de Consumo**:
 
 ## Como Executar Localmente
 
-*(Esta seção deve ser preenchida com as instruções específicas da linguagem escolhida, por exemplo:)*
-
 1.  Clone o repositório.
 2.  Instale o **Azure Functions Core Tools**.
 3.  Rode `func start` no terminal do projeto.
